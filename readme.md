@@ -1,4 +1,4 @@
-# GraphQL+express+mysql 完整demo
+# 实战GraphQL+express+mysql 项目完整demo
 
 
 ##安装步骤:
