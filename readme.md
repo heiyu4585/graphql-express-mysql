@@ -9,13 +9,19 @@
 
 `npm install `
 
+2.数据库安装及连接
+
+使用`/graphql.sql`安装数据库
+修改`conf/db.js`中相关配置
+
 启动步骤
 
 `npm start`
 
+
 访问:
 
-'localhost:3003'
+`localhost:3003`
 
 查看相关的接口访问
 
