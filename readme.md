@@ -1,7 +1,7 @@
 # 实战GraphQL+express+mysql 项目完整demo
 
 
-##安装步骤:
+## 安装步骤:
 
 1.`npm install `
 
