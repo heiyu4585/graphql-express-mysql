@@ -1,44 +1,39 @@
 # GraphQL+express+mysql 完整demo
 
 
+##安装步骤:
 
-入门到放弃
-
-
-安装步骤:
-
-`npm install `
+1.`npm install `
 
 2.数据库安装及连接
 
 使用`/graphql.sql`安装数据库
 修改`conf/db.js`中相关配置
 
-启动步骤
+3.启动步骤
 
 `npm start`
 
 
-访问:
+4.访问:
 
 `localhost:3003`
 
-查看相关的接口访问
+通过开发者工具查看相关的接口访问
 
-访问调试工具:
+5.访问调试工具:
 
 `http://localhost:3003/graphql`
+
 `http://localhost:3003/article`
 
-官方的简单版本
+6.官方的简单版本
+
 `/app_simple.js`
 
-1.schame 最小的实现版本 
+7.schame 最小的实现版本 
+
 `/graphql/user/userSchame.js`
-
-
-#grapql调研报告 
-
 
 
 ## GraphQL是什么
