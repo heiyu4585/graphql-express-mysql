@@ -930,12 +930,17 @@ const Mutation = new GraphQLObjectType({
 
 
 可参考github:
+
 https://github.com/zhaiqianfeng/GraphQL-Demo/tree/master/javascript/advance
+
 https://github.com/proYang/GraphQL-demo
+
 [koa实现](https://github.com/naihe138/GraphQL-demo)
+
 [文档不错](https://github.com/zhouyuexie/learn-graphql)
 封装很好.比较不错
-###坑
+
+### 坑
 
 #### node支持 import
 
